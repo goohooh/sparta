@@ -1,0 +1,21 @@
+.mytitle {
+    color: white;
+    width: 300px;
+    height: 200px;
+    /* 이 코드는 이미지를 불러오는 코드입니다 */
+    background-image: url('https://www.ancient-origins.net/sites/default/files/field/image/Agesilaus-II-cover.jpg');
+
+    background-position: center;
+    background-size: cover;
+    
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 40px;
+}
+.wrap {
+    margin: 10px auto;
+    width: 300px;
+}
+* {
+    font-family: 'Black Han Sans', sans-serif;
+}
